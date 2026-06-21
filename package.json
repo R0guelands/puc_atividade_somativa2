@@ -15,7 +15,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://R0guelands.github.io/puc_atividade_somativa2",
+  "homepage": "https://r0guelands.github.io/puc_atividade_somativa2",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
