@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/puc_atividade_somativa2/static/css/main.0f9807f4.css",
+    "main.js": "/puc_atividade_somativa2/static/js/main.18413f6e.js",
+    "static/js/453.9a85ae25.chunk.js": "/puc_atividade_somativa2/static/js/453.9a85ae25.chunk.js",
+    "index.html": "/puc_atividade_somativa2/index.html",
+    "main.0f9807f4.css.map": "/puc_atividade_somativa2/static/css/main.0f9807f4.css.map",
+    "main.18413f6e.js.map": "/puc_atividade_somativa2/static/js/main.18413f6e.js.map",
+    "453.9a85ae25.chunk.js.map": "/puc_atividade_somativa2/static/js/453.9a85ae25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f9807f4.css",
+    "static/js/main.18413f6e.js"
+  ]
+}
